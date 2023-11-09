@@ -1,6 +1,6 @@
 # Tic Tac Toe Game in Python with NumPy: A Battle of Wits! 🎲🧠
 
-## Introduction 🌟
+## Introduction 🌟 
 
 Welcome to the world of **Tic Tac Toe**, where wit and strategy take center stage! In this Python-based gaming adventure, we'll harness the power of **NumPy**, a versatile library for numerical computations, to bring this classic game to life.
 
